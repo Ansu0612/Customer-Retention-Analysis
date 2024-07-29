@@ -1,9 +1,3 @@
-# Customer-Retention-Analysis
-
-Sure, here's a draft for your README file for the GitHub repository:
-
----
-
 # Customer Retention Dashboard
 
 ## Overview
