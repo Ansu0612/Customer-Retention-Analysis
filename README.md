@@ -26,6 +26,11 @@ This project focuses on creating a dashboard to visualize key performance indica
 - **Retention Trends**: Analyzes and displays trends in customer retention over time, helping to identify patterns and areas for improvement.
 - **Interactive Visualizations**: Provides interactive charts and graphs for a deeper understanding of the data.
 
+  # Layout
+
+  ![Customer Retention Dashboard](Screenshot%202025-03-08%20180651.png)
+
+
 ## Learning Objectives
 
 - How to define key performance indicators (KPIs) related to customer retention.
@@ -40,6 +45,11 @@ The dashboard offers the following insights:
 - **Geographical Insights**: Analyze where your customers are located.
 - **Retention Rate Over Time**: Track how retention rates change over different periods.
 - **Churn Analysis**: Identify patterns in customer churn to address retention issues.
+
+## Dashboard Layout
+
+![Customer Retention Dashboard](Screenshot%202025-03-08%20180704.png)
+
 
 ## Suggestions for Improvement
 
