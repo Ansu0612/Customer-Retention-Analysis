@@ -7,6 +7,7 @@ In today’s competitive landscape, retaining customers is as crucial as acquiri
 Businesses invest heavily in acquiring customers, yet many struggle with high churn rates. Why do customers leave? What are the early warning signs? How can businesses act proactively?
 
 This project aims to:
+
 ✔️ Identify key factors driving customer retention and churn
 
 ✔️ Analyze KPIs such as churn rate, customer lifetime value, and engagement metrics
