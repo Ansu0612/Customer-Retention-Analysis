@@ -8,7 +8,9 @@ Businesses invest heavily in acquiring customers, yet many struggle with high ch
 
 This project aims to:
 ✔️ Identify key factors driving customer retention and churn
+
 ✔️ Analyze KPIs such as churn rate, customer lifetime value, and engagement metrics
+
 ✔️ Visualize trends using Power BI to make data-driven decisions
 
 ## Overview
