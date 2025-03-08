@@ -1,8 +1,23 @@
 # Customer Retention Dashboard
 
+## Problem Statement 
+What if you could predict which customers might leave before they actually do?
+In today’s competitive landscape, retaining customers is as crucial as acquiring new ones. This project dives deep into customer retention analytics, unlocking patterns and key indicators that influence customer churn.
+
+Businesses invest heavily in acquiring customers, yet many struggle with high churn rates. Why do customers leave? What are the early warning signs? How can businesses act proactively?
+
+This project aims to:
+✔️ Identify key factors driving customer retention and churn
+✔️ Analyze KPIs such as churn rate, customer lifetime value, and engagement metrics
+✔️ Visualize trends using Power BI to make data-driven decisions
+
 ## Overview
 
 This project focuses on creating a dashboard to visualize key performance indicators (KPIs) related to customer retention. The dashboard provides valuable insights into customer demographics and retention trends, enabling data-driven decision-making for enhancing customer engagement and retention strategies.
+
+## Data Visualization Layout 
+
+![Customer Retention Dashboard](Screenshot%202025-03-08%20180635.png)
 
 ## Key Features
 
